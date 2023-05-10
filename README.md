@@ -16,6 +16,7 @@
  
   ### Para contato ultilize as redes abaixo abaixo!
   ### Nome verdadeiro: Arthur Henrique Melo Câmara
+ 
 <div> 
   <a href = "mailto:tutucamara369@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/7603152405079492" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
