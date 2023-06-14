@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fjavascript&psig=AOvVaw279K5VJUUC4GJpRfzFI1dr&ust=1686870116767000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiq5Ifvw_8CFQAAAAAdAAAAABAD)">
+  <img align="center" alt="JAVASCRIPT" height="30" width="40" src=" ">
 </div>
  
  <br>
